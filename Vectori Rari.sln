@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vectori Rari", "Vectori Rari\Vectori Rari.vcxproj", "{4DFAB38B-9524-4AE9-9F9D-2332E7EE84DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DFAB38B-9524-4AE9-9F9D-2332E7EE84DD}.Debug|x64.ActiveCfg = Debug|x64
+		{4DFAB38B-9524-4AE9-9F9D-2332E7EE84DD}.Debug|x64.Build.0 = Debug|x64
+		{4DFAB38B-9524-4AE9-9F9D-2332E7EE84DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{4DFAB38B-9524-4AE9-9F9D-2332E7EE84DD}.Debug|x86.Build.0 = Debug|Win32
+		{4DFAB38B-9524-4AE9-9F9D-2332E7EE84DD}.Release|x64.ActiveCfg = Release|x64
+		{4DFAB38B-9524-4AE9-9F9D-2332E7EE84DD}.Release|x64.Build.0 = Release|x64
+		{4DFAB38B-9524-4AE9-9F9D-2332E7EE84DD}.Release|x86.ActiveCfg = Release|Win32
+		{4DFAB38B-9524-4AE9-9F9D-2332E7EE84DD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C34C524-C423-4DDB-B180-21BEDDCA82E8}
+	EndGlobalSection
+EndGlobal
